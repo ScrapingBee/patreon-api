@@ -261,10 +261,6 @@ Not available from the public page. The only count in the payload is `declined_p
 **Which credit tier do I need for this?**
 Route 1 at 5 credits per creator means 250,000 credits covers 50,000 creator checks. That is inside the entry paid plan.
 
-## Credits
-
-Built and maintained by [wordstotech](https://github.com/wordstotech-design). Powered by ScrapingBee.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
